@@ -1,5 +1,5 @@
 from get_html_information import html_to_dataframe
-from hmtl_c import html_c
+from html_c import html_c
 from remove_special_characters import remove_special_characters
 import pandas as pd 
 from keywords import keywords
